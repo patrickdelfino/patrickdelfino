@@ -52,3 +52,7 @@ A primeira entrega planejada prioriza as correções P0, o comparador e o quiz d
 ## Amostra técnica
 
 [Ver recortes do código original](../amostras/monify/README.md) com cadastro de cartões, taxonomias e template de comparação.
+
+## Demonstração executável
+
+O catálogo e o comparador de cartões estão disponíveis em uma edição de portfólio com dados fictícios. O repositório inclui o tema, a carga de dados e as instruções para execução local. [Executar o Monify](https://github.com/patrickdelfino/monify)

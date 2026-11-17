@@ -4,6 +4,12 @@ Desenvolvedor Full Stack com mais de sete anos de experiência profissional. Tra
 
 Na Sarthemes, de setembro de 2018 a setembro de 2025, desenvolvi plataformas de streaming, sistemas de gestão de conteúdo, portais de produtos financeiros e lojas virtuais. Também atuei com servidores Linux, integrações, cache e desempenho web.
 
+## Monify em destaque
+
+Explore uma edição executável do portal financeiro com catálogo de cartões fictícios, busca, filtros por bandeira, benefício e renda, e comparação lado a lado. O repositório inclui o tema em PHP e WordPress, a carga de dados e as instruções para iniciar com Docker Compose.
+
+[Executar a demonstração do Monify](https://github.com/patrickdelfino/monify) · [Ler o estudo de caso](projetos/monify.md)
+
 ## Projetos selecionados
 
 | Projeto | Minha contribuição | Tecnologias e conceitos |
