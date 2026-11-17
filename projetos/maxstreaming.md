@@ -31,3 +31,7 @@ Criei o MaxStreaming, um CMS próprio para administrar e apresentar um catálogo
 ## Estado da versão analisada
 
 A API de episódios retorna até 12 itens e calcula os indicadores da próxima página. A aplicação do deslocamento na consulta ainda precisa ser ajustada para avançar pelos resultados. A revisão acima se baseia no código do projeto.
+
+## Amostra técnica
+
+[Ver recortes do código original](../amostras/maxstreaming/README.md) com configuração e renderização da home editorial, destaques e geração de sitemap.

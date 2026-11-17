@@ -48,3 +48,7 @@ Desenvolvi uma plataforma de streaming de donghua para reunir descoberta de obra
 - **Cache de aplicação.** Usei object cache persistente quando disponível, com arquivos como fallback. Catálogo, busca, barra lateral, página inicial e rankings usam cache com invalidação por versão ou dependência. A limpeza ocorre em lotes. Locks por chave evitam reconstruções simultâneas e a variação de TTL distribui as expirações.
 - **Banco de dados.** Versionei o esquema e adicionei índices para consultas recorrentes, contadores pré-calculados para contas e comentários e agregados para a página inicial e os rankings. Os registros antigos são preenchidos de forma incremental.
 - **Rotina de operação.** O painel inclui saúde do sistema, métricas de cache, status do cron, limpeza de registros órfãos e modo de manutenção. Também implementei conversão de imagens enviadas ou importadas para WebP, ajustes responsivos e configurações para Analytics, Tag Manager, Search Console, Facebook Pixel, lazy loading, identidade visual e scripts personalizados.
+
+## Amostra técnica
+
+[Ver recortes do código original](../amostras/donghua/README.md) com cache de aplicação com versões, tags, locks e drivers de armazenamento.

@@ -48,3 +48,7 @@ Desenvolvi o Monify, um portal financeiro que reúne catálogos de cartões de c
 - **Consulta de CPF e score.** Avaliar uma integração futura em módulo separado, condicionada à escolha de um provedor de API, com chamadas pelo servidor, controle de acesso e auditoria.
 
 A primeira entrega planejada prioriza as correções P0, o comparador e o quiz de recomendação de cartões. A gestão de ofertas e a medição de conversão vêm em seguida.
+
+## Amostra técnica
+
+[Ver recortes do código original](../amostras/monify/README.md) com cadastro de cartões, taxonomias e template de comparação.

@@ -13,4 +13,8 @@ Na Sarthemes, de setembro de 2018 a setembro de 2025, desenvolvi plataformas de 
 | [Monify](projetos/monify.md) | Desenvolvi um portal financeiro com catálogos de cartões, empréstimos e contas digitais e um comparador de dois cartões. | PHP, WordPress, tipos de conteúdo, taxonomias |
 | [PointArcas](projetos/pointarcas.md) | Desenvolvi do zero uma loja virtual com catálogo filtrável, avaliações e carrinho que envia o resumo da compra ao WhatsApp. | WordPress, WooCommerce, e-commerce |
 
+## Amostras técnicas
+
+[Explore recortes do código original](amostras/README.md), com os módulos selecionados, suas dependências e o fluxo que cada trecho demonstra.
+
 [Perfil no LinkedIn](https://www.linkedin.com/in/patrickdelfino/)
