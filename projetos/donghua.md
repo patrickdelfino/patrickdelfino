@@ -49,6 +49,9 @@ Desenvolvi uma plataforma de streaming de donghua para reunir descoberta de obra
 - **Banco de dados.** Versionei o esquema e adicionei índices para consultas recorrentes, contadores pré-calculados para contas e comentários e agregados para a página inicial e os rankings. Os registros antigos são preenchidos de forma incremental.
 - **Rotina de operação.** O painel inclui saúde do sistema, métricas de cache, status do cron, limpeza de registros órfãos e modo de manutenção. Também implementei conversão de imagens enviadas ou importadas para WebP, ajustes responsivos e configurações para Analytics, Tag Manager, Search Console, Facebook Pixel, lazy loading, identidade visual e scripts personalizados.
 
-## Amostra técnica
+## Código
 
-[Ver recortes do código original](../amostras/donghua/README.md) com cache de aplicação com versões, tags, locks e drivers de armazenamento.
+[Arquivos do Donghua](../amostras/donghua/README.md)
+
+O código publicado reúne os serviços de cache do projeto. A leitura começa pelo CacheManager e segue pelas classes de versões, tags, locks e pelos drivers de arquivo e object cache. O README da pasta explica as dependências e inclui um teste opcional em PHP para acompanhar a invalidação.
+

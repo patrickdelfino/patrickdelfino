@@ -23,4 +23,7 @@ Explore uma edição executável do portal financeiro com catálogo de cartões 
 
 [Explore recortes do código original](amostras/README.md), com os módulos selecionados, suas dependências e o fluxo que cada trecho demonstra.
 
+- [Código do Donghua](amostras/donghua/README.md) — cache, invalidação por tags, locks e armazenamento.
+- [Código do PointArcas](amostras/pointarcas/README.md) — filtros, catálogo WooCommerce e carrinho com WhatsApp.
+
 [Perfil no LinkedIn](https://www.linkedin.com/in/patrickdelfino/)

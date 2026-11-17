@@ -28,6 +28,9 @@ Desenvolvi do zero a PointArcas, uma loja virtual sobre WordPress e WooCommerce.
 - **Templates do WooCommerce.** O tema inclui calculadora de frete com campos de endereço, seleção de método de entrega e botão para acessar o checkout padrão.
 - **Fluxo da versão analisada.** No carrinho personalizado, o frete aparece como **A Combinar** e o botão principal encaminha a seleção ao WhatsApp. A ativação de um gateway de pagamento ficou sem confirmação no código do tema analisado.
 
-## Amostra técnica
+## Código
 
-[Ver recortes do código original](../amostras/pointarcas/README.md) com filtros de catálogo, consulta WooCommerce e carrinho com atendimento via WhatsApp.
+[Arquivos do PointArcas](../amostras/pointarcas/README.md)
+
+Os arquivos acompanham o caminho dos filtros até a consulta do WooCommerce e, depois, o carrinho personalizado e a montagem da mensagem para o WhatsApp. Os templates usam o WordPress, o WooCommerce e as configurações do tema como base.
+
